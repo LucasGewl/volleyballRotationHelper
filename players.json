@@ -1,0 +1,66 @@
+{
+  "names": {
+    "Lucas": {
+      "canBlock": "True",
+      "positions": {
+        "1": "Outside",
+        "2": "Opposite",
+        "3": "Setter"
+      },
+      "isSub": "False"
+    },
+    "Derrick": {
+      "canBlock": "False",
+      "positions": {
+        "1": "Setter",
+        "2": "Outside"
+      },
+      "isSub": "False"
+    },
+    "David N": {
+      "canBlock": "True",
+      "positions": {
+        "1": "Outside"
+      },
+      "isSub": "False"
+    },
+    "Sherlocke": {
+      "canBlock": "False",
+      "positions": {
+        "1": "Outside",
+        "2": "Opposite"
+      },
+      "isSub": "False"
+    },
+    "Martin": {
+      "canBlock": "True",
+      "positions": {
+        "1": "Outside",
+        "2": "Opposite"
+      },
+      "isSub": "True"
+    },
+      "Kim": {
+        "canBlock": "False",
+        "positions": {
+          "1": "Mid/Lib"
+        },
+        "isSub": "False"
+      },
+      "Sofia": {
+        "canBlock": "False",
+        "positions": {
+          "1": "Mid/Lib",
+          "2": "Setter"
+        },
+        "isSub": "False"
+      },
+      "Nat": {
+        "canBlock": "False",
+        "positions": {
+          "1": "Mid/Lib"
+        },
+        "isSub": "False"
+      }
+      }
+    }

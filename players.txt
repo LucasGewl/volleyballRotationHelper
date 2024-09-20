@@ -1,0 +1,2 @@
+Name, Position(s), canBlock
+Test, [1,2], True
